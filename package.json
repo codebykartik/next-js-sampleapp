@@ -60,5 +60,9 @@
     "fs": false,
     "path": false,
     "os": false
+  },
+  "engines":{
+    "node": ">=20",
+    "npm":"9.x"
   }
 }
